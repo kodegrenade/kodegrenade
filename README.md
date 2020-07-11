@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A software developer, foodie and a digital olofofo(gossip). I basically do what works on the pcs and phone.
+
 <!--
 **Brhamix/Brhamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
