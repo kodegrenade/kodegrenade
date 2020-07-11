@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A software developer, foodie and a digital olofofo(gossip).
+Yeah, your are right I'm just another random software developer on github. A summary of what I do is "I code, eat, sleep (sometimes) and &#128065; at people."
 
 <!--
 **Brhamix/Brhamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
