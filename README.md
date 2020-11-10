@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Yeah, your are right I'm just another random software developer on github. A summary of what I do is "I code, eat, sleep (sometimes) and make some domestic gossip for local consumption."
+Yeah, your are right I'm just another random software developer on github. A summary of what I do is "I code, eat, sleep (sometimes) and write domestic gossip for local consumption."
 
 <!--
 **Brhamix/Brhamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
