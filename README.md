@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Yeah, your are right I'm just another random software developer on github. A summary of what I do is "I code, eat, sleep (sometimes) and write domestic gossip for local consumption."
+Yes, you're right I'm just another random Software Developer on github. A summary of what I do is "I code, eat, sleep (sometimes) and write domestic gossip for local consumption."
+
+I like building and testing amazing tech products. 🧑‍💻
+
+I'm currently making my contributions to improve Pig farming in Nigeria through [Porkfund](https://porkfund.com) 🐖💰
 
 <!--
 **Brhamix/Brhamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
