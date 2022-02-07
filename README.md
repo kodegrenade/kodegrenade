@@ -4,7 +4,9 @@ Yes, you're right I'm just another random Software Engineer on github. A summary
 
 I like building and testing amazing tech products. 🧑‍💻
 
-I'm currently making my contributions to improve Pig farming in Nigeria through [Porkfund](https://porkfund.com) 🐖💰
+I'm currently making my contributions in the following ways:
+- Improving Pig farming in Nigeria through [Porkfund](https://porkfund.com) 🐖💰 
+- Building conversational chat bots at [BotOffice](https://botoffice.com)
 
 <!--
 **Brhamix/Brhamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
