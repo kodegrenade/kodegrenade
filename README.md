@@ -2,7 +2,7 @@
 
 Yes, you're right I'm just another random Software Engineer on github. A summary of what I do is "I code, eat, sleep (sometimes) and write domestic gossip for local consumption."
 
-I like building and testing amazing tech products. 🧑‍💻
+I love building and testing amazing tech products. 🧑‍💻
 
 I'm currently making my contributions in the following ways:
 - Improving Pig farming in Nigeria through [Porkfund](https://porkfund.com) 🐖💰 
