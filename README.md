@@ -4,4 +4,4 @@ You've caught me—I'm just another wild, code-wielding conjurer in this magical
 
 My heart races for crafting and experimenting with mind-bending tech creations. 🚀✨
 
-I build conversational chatbots at [BotOffice](https://botoffice.com), and also a tech farmer at [Porkfund](https://porkfund.com).
+I build conversational chatbots at [BotOffice](https://botoffice.com), and also help users save money while they shop online at [Domeasolid](https://www.domeasolid.com).
